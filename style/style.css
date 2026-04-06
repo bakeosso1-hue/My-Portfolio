@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Pexe';
+    src: url('quicksand.book-regular.otf') format('opentype');
+    
+}
+@font-face {
+  font-family: 'nfs'; 
+  src: url('Mostwasted.ttf');
+}
+@font-face {
+    font-family: 'jail';
+    src: url('BadangItalic.ttf');    
+}
+.caby{
+    background-color: maroon;
+    color: white;
+    font-size: 30px;
+    width: full;
+    text-align: center;
+}
+.asd{
+    font-family: 'Pexe';
+    background: rgb(73, 73, 73);
+    color: white;
+    padding-inline: 100px;
+    letter-spacing: -2px;
+
+}
+#carouselExampleDark{
+    width: 900px;
+    height: auto;
+    margin: 50px;
+}
+
+.textoh5{
+    color: white;
+    font-family: quicksand book-regular;
+    letter-spacing: 1px;
+}
+.carousel-caption {
+  position: absolute;
+  z-index: 2; 
+  bottom: 20px;
+  color: white;
+}
+.card{
+    letter-spacing: -1px;
+
+}
+.card.text2{
+    font-family: 'nfs';
+ 
+}
